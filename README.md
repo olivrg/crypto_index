@@ -1,16 +1,25 @@
 # crypto_index
 
-A new Flutter project.
+A Flutter app that fetches cryptocurrency prices and helps you save your favourite cryptocurrencies.
 
-## Getting Started
+## Getting started
 
-This project is a starting point for a Flutter application.
+1. Setup [Flutter](https://flutter.dev/docs/get-started/install)
 
-A few resources to get you started if this is your first Flutter project:
+2. Clone this repo
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+   \$ git clone https://github.com/olivrg/crypto_index.git
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+   \$ cd crypto_index
+
+3. Open the iOS Simulator
+
+   \$ open -a Simulator
+
+4. Run the app
+
+   \$ flutter run
+
+## License
+
+[MIT License](http://opensource.org/licenses/MIT).

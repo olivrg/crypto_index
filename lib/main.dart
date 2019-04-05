@@ -106,7 +106,7 @@ class CryptoIndexState extends State<CryptoIndex> {
     //This class provides APIs for showing drawers, snack bars, and bottom sheets.
     return Scaffold(
         appBar: AppBar(
-          title: Text('CryptoIndex'),
+          title: Text('Crypto Index'),
           actions: <Widget>[
             // will be used to view favourites
             new IconButton(icon: const Icon(Icons.list), onPressed: _pushSaved),
