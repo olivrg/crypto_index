@@ -1,4 +1,4 @@
-# crypto_index
+# Crypto Index
 
 A Flutter app that fetches cryptocurrency prices and helps you save your favourite cryptocurrencies.
 
@@ -8,17 +8,22 @@ A Flutter app that fetches cryptocurrency prices and helps you save your favouri
 
 2. Clone this repo
 
-   \$ git clone https://github.com/olivrg/crypto_index.git
-
-   \$ cd crypto_index
+   ```sh
+   $ git clone https://github.com/olivrg/crypto_index.git
+   $ cd crypto_index
+   ```
 
 3. Open the iOS Simulator
 
-   \$ open -a Simulator
+   ```sh
+   $ open -a Simulator
+   ```
 
 4. Run the app
 
-   \$ flutter run
+   ```sh
+   $ flutter run
+   ```
 
 ## License
 
